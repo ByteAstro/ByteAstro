@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## There are only 10 types of people
+- Those who understands binary
+- And those who don't
+
 <!--
 **ByteAstro/ByteAstro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
