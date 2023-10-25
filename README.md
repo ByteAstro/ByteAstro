@@ -4,7 +4,7 @@
 - Those who understands binary
 - And those who don't
 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteAstro&theme=merko" alt="Current & Total Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=byteastro&theme=merko" alt="Current & Total Streak"/>
 
 <!--
 **ByteAstro/ByteAstro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
