@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=byteastro&color=orange&style=for-the-badge)
 
 ## There are only 10 types of people
 - Those who understands binary
 - And those who don't
 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=byteastro&theme=merko" alt="Current & Total Streak"/>
+![](https://komarev.com/ghpvc/?username=byteastro&color=orange&style=for-the-badge)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=byteastro&theme=merko" alt="Current & Total Streak"/>
     
 <!--
 **ByteAstro/ByteAstro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
