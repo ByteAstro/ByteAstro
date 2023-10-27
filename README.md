@@ -4,6 +4,8 @@
 ## There are only 10 types of people
 - Those who understands binary
 - And those who don't Serously
+- Sometimes the best thing we can do is to just go with the Flow
+- Then realize our inner potential
 
 ![](https://komarev.com/ghpvc/?username=byteastro&color=orange&style=for-the-badge)
 
