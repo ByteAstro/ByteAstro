@@ -3,8 +3,7 @@
 
 ## There are only 10 types of people
 - Those who understands binary
-- And those who don't Serously
-- Sometimes the best thing we can do is to just . . . 
+- And those who don't Serously 
 
 ![](https://komarev.com/ghpvc/?username=byteastro&color=orange&style=for-the-badge)
 
