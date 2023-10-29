@@ -8,6 +8,8 @@
 
 ![](https://komarev.com/ghpvc/?username=byteastro&color=orange&style=for-the-badge)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=byteastro)](https://git.io/streak-stats)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=byteastro&theme=merko" alt="Current & Total Streak"/>
     
 <!--
