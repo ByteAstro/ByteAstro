@@ -1,7 +1,9 @@
 ### Hi there 👋
+## I am ByteAstro
 
-
-## There are only 10 types of people
+===
+### You kno there is a saying
+#### There are only 10 types of people
 - Those who understands binary
 - And those who don't
     -- CodeWithHarry
