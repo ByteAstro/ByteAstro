@@ -3,10 +3,9 @@
 
 ***
 ### You know there is a saying
-#### There are only 10 types of people
+ There are only 10 types of people
 - Those who understands binary
 - And those who don't
-    -- CodeWithHarry
 
 ![](https://komarev.com/ghpvc/?username=byteastro&color=orange&style=for-the-badge)
 
