@@ -3,6 +3,7 @@
 
 ***
 ### You know there is a saying
+***
  There are only 10 types of people
 - Those who understands binary
 - And those who don't
