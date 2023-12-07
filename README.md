@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ## I am ByteAstro
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=535&lines=A+coding+enthusiast+with+a+passion+for;building+things+that+matter.;A+believer+of+Programming+is+superpower;A+ProblemSolver%E2%9C%85+%2F+The+Enigma+Eraser%E2%9D%8E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=535&lines=A+coding+enthusiast+with+a+passion+for;building+things+that+matter.;A+believer+of+Programming+is+superpower.;A+ProblemSolver%E2%9C%85+%2F+The+Enigma+Eraser%E2%9D%8C)](https://git.io/typing-svg)
 
 ***
 ### I'm also : 
