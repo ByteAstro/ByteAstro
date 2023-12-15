@@ -9,7 +9,7 @@
 - Basically, anything cool and techy gets my heart racing.
 - Constantly seeking opportunities to push my boundaries and grow as a programmer.
  
-### My Skills:
+### My Skills :
 - I speak fluent Python, JavaScript, C++, HTML, and CSS.
 - I'm a master of libraries like React and Express.
 - Databases? MySQL and MongoDB are my playgrounds.
