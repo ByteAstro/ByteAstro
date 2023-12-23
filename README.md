@@ -25,7 +25,7 @@
 <!--
 **ByteAstro/ByteAstro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: 123
+Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on Computr-vision ...
 - 🌱 I’m currently learning ...
