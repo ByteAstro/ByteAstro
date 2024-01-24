@@ -5,7 +5,7 @@
 ***
 ### I'm also :
 - A firm believer in continuous learning.
-- Obsessed with AI, web dev, robotics, and open-source software.
+- Passionate about AI-ML, WEB-DEV, and IOT.
 - Constantly seeking opportunities to push my boundaries and grow as a programmer.
  
 ### My Skills :
