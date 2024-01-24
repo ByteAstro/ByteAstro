@@ -6,12 +6,11 @@
 ### I'm also :
 - A firm believer in continuous learning.
 - Obsessed with AI, web dev, robotics, and open-source software.
-- Basically, anything cool and techy gets my heart racing.
 - Constantly seeking opportunities to push my boundaries and grow as a programmer.
  
 ### My Skills :
 - I speak fluent Python, JavaScript, C++, HTML, and CSS.
-- I'm a master of libraries like React and Express.
+- I'm an intermediate of libraries like React and Next.
 - Databases? MySQL and MongoDB are my playgrounds.
 - Git? Don't worry, I've got the version control covered.
 - Cloud? Learning . . .
