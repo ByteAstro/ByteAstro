@@ -9,7 +9,7 @@
 
 ***
 ### I'm also :
-- Passionate about AI-ML, WEB-DEV, and IOT.
+- Passionate about WEB-DEV, AI.
 - Constantly seeking opportunities to push my boundaries and grow as a programmer.
  
 ### My Skills :
