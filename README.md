@@ -18,7 +18,7 @@
 - Tools: *Git, VsCode, PyCharm, xampp, MongoAtlas.*
 
 <!-- - Currently learning: Python-opencv -->
- 
+
 ***
 [![GitHub Streak](https://github-readme-streak-stats-uvud.vercel.app?user=ByteAstro&theme=vision-friendly-dark&hide_border=false)](https://git.io/streak-stats) 
 
