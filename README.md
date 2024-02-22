@@ -1,5 +1,5 @@
 ### Hi there 👋 
-## I am ByteAstro
+## I am ByteAstro 
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=535&lines=A+coding+enthusiast+with+a+passion+for;developing+convenient+apps+.;Let's+craft+the+program+together+As)](https://git.io/typing-svg) -->
 
