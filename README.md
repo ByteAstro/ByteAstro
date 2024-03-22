@@ -5,9 +5,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79E54&random=false&width=565&lines=A+programming+enthusiats+%26+continuous+learner%2C;Eager+to+collaborate+and+grow+with;A+dev+like+you+%F0%9F%9A%80.+Let's+connect+and;Let's+craft+complex+softwares+and+systems+AS+-+)](https://git.io/typing-svg)
 
-![Visitor Count](https://profile-counter.glitch.me/ByteAstro/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/ByteAstro/count.svg) -->
 
-<!-- ![](https://komarev.com/ghpvc/?username=byteastro&color=blueviolet&style=for-the-badge) -->
+![](https://komarev.com/ghpvc/?username=byteastro&color=blueviolet&style=for-the-badge)
 
 ***
 ### I'm also :
