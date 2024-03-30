@@ -13,7 +13,6 @@
 ### I'm also :
 - Passionate about *WEB-DEV, AI.*
 - Constantly seeking opportunities to push my boundaries and grow as a programmer.
-
  
 ### My Skills :
 - Languages: *Python, JavaScript, Typescript etc.*
